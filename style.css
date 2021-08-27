@@ -1,0 +1,35 @@
+.container{
+    background-color:#5089C6;
+    width: 40%;
+    height: 50%;
+    margin: 30px 400px;
+    padding: 30px;
+    border-radius: 20px;
+}
+body{
+color: white;
+}
+.hello{
+width: 530px;
+text-align: center;
+}
+.hello1{
+width: 250px;
+}
+button{
+margin-left: 30%;
+margin-top: 5%;
+}
+input[type=radio]{
+padding: 30px;
+}
+.coloring{
+background-color: aquamarine;
+}
+textarea::placeholder{
+color: brown;
+font-family: "MV Boli";
+letter-spacing: 0.5em;
+font-weight: bold;
+margin-top: 10px;
+}
